@@ -1,3 +1,5 @@
+[![screencast-Genymotion-2020-07-02_00.51.05.245.gif](https://s7.gifyu.com/images/screencast-Genymotion-2020-07-02_00.51.05.245.gif)](https://gifyu.com/image/QpDz)
+
 Приложение: <br>
 
 *Загружает список источников с сервера
