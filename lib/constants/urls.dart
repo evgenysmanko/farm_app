@@ -1,0 +1,1 @@
+final String listOfNewsSourcesURL = 'https://extendsclass.com/api/json-storage/bin/aeeaead';

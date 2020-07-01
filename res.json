@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Аграрий",
+    "imgUrl" : "https://i.yapx.ru/IE57i.png",
+    "rss" : "https://agrarii.com/agroinfo/agronovosti/feed/"
+  },
+{
+    "id": 2,
+    "title": "AgroXXI",
+    "imgUrl" : "https://i.ibb.co/86VGB8w/Capture.png",
+    "rss" : "https://www.agroxxi.ru/rss/content/2/feed.rss"
+  },
+  {
+    "id": 3,
+    "title": "Агроинвестор",
+    "imgUrl" : "https://i.ibb.co/gMySC6F/Capture.png",
+    "rss" : "https://agronovosti.ru/feed/"
+  }
+]
